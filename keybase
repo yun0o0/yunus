@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am yun0o0 on github.
+  * I am yun000 (https://keybase.io/yun000) on keybase.
+  * I have a public key ASDFvPSrCRiGGsHqTmQAsC6QFcAPMah4fgAg4Hhz9tej2Ao
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c5bcf4ab0918861ac1ea4e6400b02e9015c00f31a8787e0020e07873f6d7a3d80a",
+      "host": "keybase.io",
+      "kid": "0120c5bcf4ab0918861ac1ea4e6400b02e9015c00f31a8787e0020e07873f6d7a3d80a",
+      "uid": "1d6023e64f3532fd59bb3839afc0e819",
+      "username": "yun000"
+    },
+    "merkle_root": {
+      "ctime": 1572145552,
+      "hash": "85fbeb5c3f1c87a483ee0d16e598b4338a3fe8a3b2f7a3d1034ad4aa174d89cb0fbad6a22a4ab6f8fcb0c6bcea097c4b6c6a32132130250546c826857e399110",
+      "hash_meta": "10702c223a92f53c7c406f6bd7a06feef95cea1599c7f1a078ae7499685d5df4",
+      "seqno": 8429234
+    },
+    "service": {
+      "entropy": "0haNwmayNmIsmrdVuAQPzU4X",
+      "name": "github",
+      "username": "yun0o0"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.0"
+  },
+  "ctime": 1572145983,
+  "expire_in": 504576000,
+  "prev": "bdc17d96922449c6ebd6f6e224ba5492d9b89248fbf2d7e20bf7a1f02dcecfbb",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASDFvPSrCRiGGsHqTmQAsC6QFcAPMah4fgAg4Hhz9tej2Ao](https://keybase.io/yun000), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxbz0qwkYhhrB6k5kALAukBXADzGoeH4AIOB4c/bXo9gKp3BheWxvYWTESpcCBcQgvcF9lpIkScbr1vbiJLpUktm4kkj78tfiC/eh8C3Oz7vEIKNPI3Ee+mhSsRK3y32rKBuNefaqj2bwsmvh6ACTxz/FAgHCo3NpZ8RA1r7rBqGJgIbqJmpA6w6baWjXIrC50axFQj4JS1YcuSnYK+cWhqnBKoX1ftoEUvYoJgZTdO50Ft7Ob+jRA653DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN1IVfT1SsPveaXhiJxKbxYSGexI/AnAK2w1B9ZpZwdGo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/yun000
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id yun000
+```
